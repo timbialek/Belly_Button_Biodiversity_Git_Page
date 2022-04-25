@@ -1,0 +1,33 @@
+body {
+    background-color: rgb(44, 44, 44);
+  }
+  h1{
+    background-color: rgb(44, 44, 44);
+  }
+  h5{
+    color: rgb(247, 247, 247);
+  }
+  p{
+    background-color: rgb(43, 43, 43);
+  }
+
+  .jumbotron {
+    background-image: url("images/bacteria2.jpg");
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15vw;
+    color: rgb(255, 255, 255);
+    background-size: 100%;
+    text-align: center;
+    outline-color: rgb(44, 44, 44);
+  }
+  .well {
+    color:rgb(12, 12, 12);
+    outline-color: rgb(44, 44, 44);
+    background-color: rgb(44, 44, 44);
+  }
+  .panel {
+    color:rgb(247, 247, 247);
+    outline-color: rgb(44, 44, 44);
+    background-color: rgb(44, 44, 44);
+  }
+  
